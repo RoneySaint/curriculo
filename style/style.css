@@ -28,7 +28,7 @@ body {
 
 .cabecalho__menu{
     display: flex;
-    gap: 80px;
+    gap: 40px;
 }
 
 .cabecalho__menu__link{
@@ -52,11 +52,10 @@ body {
      display:flex;
      flex-direction: column;
      gap: 40px;
-
 }
 
 .apresentacao__conteudo__titulo{
-    font-size: 2.25rem;
+    font-size: 1.80rem;
     font-family: var(--fonte-principal); 
 }
 
